@@ -1,3 +1,6 @@
 Device controlling is a function of operating systems. The devices are pluged into the computer and use a software called device drivers.
 This function allows things like keybords, mouses and speakers to be recognized and work. 
+
 Another operating system function is Process Management. When there are many tasks or programs running at one time, this operating system function tells what task should use the CPU. This allows the computer to perform multiple tasks and increases efficiency, as the program does not have to boot up everytime.
+
+Along with those two and many more, is the Booting Function. You might consider it the most important function of all. The Booting Function tells the computers hardware and software to turn on. Before doing that it makes sure the computer is ready to function properly. 
